@@ -28,10 +28,3 @@ def lab32():
 
 lab32()
 
-def lab33():
-    import random
-    
-
-
-
-lab33()
