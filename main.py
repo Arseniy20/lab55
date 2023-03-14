@@ -1,4 +1,4 @@
-import random
+import random import randit
 n = 2
 
 kusko = []
@@ -28,6 +28,7 @@ def lab32():
             print("Это не редкое слово!")
 
 lab32()
+
 
 def lab33():
     on = 0
@@ -59,6 +60,8 @@ def lab33():
                 op += 1
             if on >= 3:
                 print("Игра окончена. Правильных ответов: ", op)
+
+
 
 lab33()
 
